@@ -1,7 +1,4 @@
 # Bio-cartera-web.
-Perfecto. A continuación te muestro cómo integrar imágenes en la página web. Para que esto funcione correctamente, debes tener las imágenes disponibles en la misma carpeta del archivo HTML (o usar enlaces a imágenes en línea). Te indico dónde colocarlas y cómo nombrarlas.
-
-Versión con imágenes integradas:
 
 <!DOCTYPE html>
 <html lang="es">
